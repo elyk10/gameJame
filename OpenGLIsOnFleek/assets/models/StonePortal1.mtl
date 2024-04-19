@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "StonePortal1":
+
+newmtl Stone_Portal_1
+Ka 0.149 0.149 0.149
+Kd 0.416 0.416 0.416
+Ks 0.2 0.2 0.2
+Ns 738.6
+map_Kd StonePortal1_Base_Diffuse.png
+map_Ks StonePortal1_Base_Specular.png
+

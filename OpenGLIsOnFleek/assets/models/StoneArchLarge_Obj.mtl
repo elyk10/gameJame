@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "Stone Arch Large":
+
+newmtl Stone_Arch_Large___Base
+Ka 0.173 0.173 0.173
+Kd 0.314 0.314 0.314
+Ks 0.373 0.373 0.373
+Ns 238.6
+map_Kd StoneArchLarge_Base-Diffuse.png
+map_Ks StoneArchLarge_Base-Specular.png
+

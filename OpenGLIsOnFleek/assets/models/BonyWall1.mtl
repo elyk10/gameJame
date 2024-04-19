@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "bony wall 1 spider-":
+
+newmtl BonyWall_1
+Ka 0.133 0.133 0.133
+Kd 0.298 0.298 0.298
+Ks 0.247 0.247 0.247
+Ns 752.6
+map_Kd BonyWall1_BaseDark_Diffuse.png
+map_Ks BonyWall1_BaseDark_Specular.png
+

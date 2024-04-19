@@ -1,0 +1,40 @@
+ply
+format ascii 1.0
+comment VCGLIB generated
+comment TextureFile wood.jpg
+element vertex 8
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property uchar red
+property uchar green
+property uchar blue
+property uchar alpha
+property float texture_u
+property float texture_v
+element face 12
+property list uchar int vertex_indices
+end_header
+-0.4 -0.05 -1 -0.3709911 -0.04637389 -0.9274778 150 150 150 255 0 0
+0.4 -0.05 -1 0.1958809 -0.04897022 -0.9794042 195 195 195 255 1 0
+-0.4 0.05 -1 -0.3712907 0.02320567 -0.9282267 206 206 206 255 0 1
+0.4 0.05 -1 0.6227992 0.07784992 -0.7784989 255 255 255 255 1 1
+-0.4 -0.05 1 -0.6227992 -0.07784992 0.7784989 150 150 150 255 0 1
+0.4 -0.05 1 0.3712907 -0.02320567 0.9282267 166 166 166 255 1 1
+-0.4 0.05 1 -0.1958809 0.04897022 0.9794042 255 255 255 255 0 0
+0.4 0.05 1 0.3709911 0.04637389 0.9274778 255 255 255 255 1 0
+3 2 1 0 
+3 1 2 3 
+3 4 2 0 
+3 2 4 6 
+3 1 4 0 
+3 4 1 5 
+3 6 5 7 
+3 5 6 4 
+3 3 6 7 
+3 6 3 2 
+3 5 3 7 
+3 3 5 1 
